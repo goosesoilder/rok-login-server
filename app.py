@@ -8,7 +8,7 @@ USERS = {
     "user01": "thichfarmgem",
     "haica":"thichfarmgem",
     "duyle":"123456789",
-    "phu":"phu123",
+    "phuchuatp":"phu123",
     "hainguyen":"hainguyen987"
 }
 
