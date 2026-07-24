@@ -9,7 +9,8 @@ USERS = {
     "haica":"thichfarmgem",
     "duyle":"123456789",
     "phuchuatp":"phu123",
-    "hainguyen":"hainguyen987"
+    "hainguyen":"hainguyen987",
+    "khoi":"khoi9876"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
