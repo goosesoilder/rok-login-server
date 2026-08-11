@@ -6,10 +6,10 @@ USERS = {
     "admin": "123456",
     "testuser": "password123",
     "user01": "thichfarmgem",
-    "haica":"thichfarmgem",
+    "haicachuadongtien":"thichfarmgem",
     "duyle":"123456789",
-    "phuchuatp":"phu123",
-    "hainguyen":"hainguyen987",
+    "phuchuadongtien":"phu123",
+    "hainguyenchuadongtien":"hainguyen987",
     "khoi":"khoi9876"
 }
 
