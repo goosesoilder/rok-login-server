@@ -6,7 +6,7 @@ USERS = {
     "admin": "123456",
     "testuser": "password123",
     "user01": "thichfarmgem",
-    "haicachuadongtien":"thichfarmgem",
+    "haica":"thichfarmgem",
     "duyle":"123456789",
     "phuchuadongtien":"phu123",
     "hainguyenchuadongtien":"hainguyen987",
