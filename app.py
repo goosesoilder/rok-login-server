@@ -9,7 +9,7 @@ USERS = {
     "haica":"thichfarmgem",
     "duyle":"123456789",
     "phuchuadongtien":"phu123",
-    "hainguyenchuadongtien":"hainguyen987",
+    "hainguyen":"hainguyen987",
     "khoi":"khoi9876"
 }
 
