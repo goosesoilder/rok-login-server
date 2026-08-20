@@ -10,7 +10,8 @@ USERS = {
     "duyle":"123456789",
     "phuchuadongtien":"phu123",
     "hainguyen":"hainguyen987",
-    "khoi":"khoi9876"
+    "khoi":"khoi9876",
+    "haufarmgem":"gem123"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
