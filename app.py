@@ -11,7 +11,8 @@ USERS = {
     "phuchuadongtien":"phu123",
     "hainguyen":"hainguyen987",
     "khoi":"khoi9876",
-    "haufarmgem":"gem123"
+    "haufarmgem":"gem123",
+    "hau2":"gem123"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
