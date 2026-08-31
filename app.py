@@ -6,13 +6,13 @@ USERS = {
     "admin": "123456",
     "testuser": "password123",
     "user01": "thichfarmgem",
-    "haica":"thichfarmgem",
-    "duyle":"123456789",
+    "haica":"thichfarmgem", # mồng 10 hằng tháng
+    "duyle":"123456789",  # mồng 10 hằng tháng
     "phuchuadongtien":"phu123",
-    "hainguyen":"hainguyen987",
-    "khoi":"khoi9876",
-    "haufarmgem":"gem123",
-    "hau2":"gem123",
+    "hainguyen":"hainguyen987",  # mồng 10 hằng tháng
+    "khoi":"khoi9876",  # mồng 1 hằng tháng
+    "haufarmgem":"gem123", # ngày 25 hằng tháng
+    "hau2":"gem123",  # ngày 25 hằng tháng
     "thien":"thien321"
 }
 
